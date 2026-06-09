@@ -3,8 +3,6 @@ import os
 from datetime import datetime
 from telegram import Update
 from telegram.ext import Application, ChatJoinRequestHandler, ContextTypes
-
-BOT_TOKEN = "8562085984:AAGxwlLneP_8300_FEtH_X6jxsABaiuFmHU"
 VIP_CHANNEL_ID = -1003923980912
 DB_FILE = "vip_users.json"
 
